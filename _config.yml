@@ -1,12 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Nitika Malhotra # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 theme: jekyll-theme-minimal
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  My Data Analytics Portfolio
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nitika-malhotra-06162a1a6/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
