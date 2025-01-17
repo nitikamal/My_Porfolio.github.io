@@ -22,5 +22,24 @@ This will also be a way to track my progress in the Data Analytics or Data Scien
       +[Forage PowerBI Virtual Internship by Pwc](#Virtual-Job-Simulation-PowerBI)
       +[Structured Query Language(SQL)](#SQL)
       +[Tableau](#Tableau)
-      
+-[Portfolio Projects](#Projects)
+-[Certifications](#Certifications)
+-[Contacts](#contacts)    
   
+## study
+
+### Beginner Data Analysis Course
+
+### Python Fundamentals
+
+### Getting started with Python
+
+### Foundations of Data Science
+
+
+### Virtual Job Simulation PowerBI
+
+### SQL
+
+### Tableau
+
