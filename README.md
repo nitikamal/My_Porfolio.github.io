@@ -15,7 +15,7 @@ This will also be a way to track my progress in the Data Analytics or Data Scien
 ## Table of contents
 - [About](#about)
 - [Study](#study)
-            -[Google Data Analytics Professional Certificate](#Beginner-data-analysis-course)
+    -[Google Data Analytics Professional Certificate](#Beginner-data-analysis-course)
             -[Python - Kaggle](#Python-fundamentals)
             -[Getting Started with Python](#Getting-started-with-Python)
             -[Google Advanced Data Analytics Certification](#Foundations-of-Data-Science)
