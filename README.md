@@ -15,16 +15,19 @@ This will also be a way to track my progress in the Data Analytics or Data Scien
 ## Table of contents
 - [About](#about)
 - [Study](#study)
-    -[Google Data Analytics Professional Certificate](#Beginner-data-analysis-course)
-            -[Python - Kaggle](#Python-fundamentals)
-            -[Getting Started with Python](#Getting-started-with-Python)
-            -[Google Advanced Data Analytics Certification](#Foundations-of-Data-Science)
-            -[Forage PowerBI Virtual Internship by Pwc](#Virtual-Job-Simulation-PowerBI)
-            -[Structured Query Language(SQL)](#SQL)
-            -[Tableau](#Tableau)
--[Portfolio Projects](#Projects)
--[Certifications](#Certifications)
--[Contacts](#contacts)    
+  - [Google Data Analytics Professional Certificate](#Beginner-data-analysis-course)
+  - [Python - Kaggle](#Python-fundamentals)
+  - [Getting Started with Python](#Getting-started-with-Python)
+  - [Google Advanced Data Analytics Certification](#Foundations-of-Data-Science)
+  
+  - [Structured Query Language(SQL)](#SQL)
+- [Tableau](#Tableau)
+- [Portfolio Projects](#Projects)
+- [Certifications](#Certifications)
+  - [Forage PowerBI Virtual Internship by Pwc](#Virtual-Job-Simulation-PowerBI) 
+- [Contacts](#contacts)
+   - [email](nitikamalhotra.011@gmail.com)
+   - [linkedin](https://www.linkedin.com/in/nitika-malhotra-06162a1a6/)
   
 ## study
 
