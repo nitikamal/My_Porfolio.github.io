@@ -57,7 +57,7 @@ This will also be a way to track my progress in the Data Analytics or Data Scien
 ## Portfolio Projects
 ##
 ### Virtual Job Simulation PowerBI
-**Goal:** To create a dashboar from a call center database getting insights about employee performance
+**Goal:** To create a dashboard from a call center database getting insights about employee performance
 **Dashboard**(https://github.com/nitikamal/My_Porfolio.github.io/blob/main/call%20center%20dashboard.pbix)
 **Description:** This was the very first dashboard created by me, the first time I used PowerBI and found it very fascinating and interesting at the same time. This virtual job simulation made me curious and eager to learn more about PowerBI and also was the initial step towards my journey of becoming a data analyst. 
 **Technology used:** Power BI
