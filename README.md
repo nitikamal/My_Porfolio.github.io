@@ -8,7 +8,7 @@ Currently, working on projects that will help me hone my skills relevant in this
 My CV in [pdf]()
 
 <br>
-This repository will showcase my skills and the projects that i had worked on or will work on.
+This repository will showcase my skills and the projects that I had worked on or will work on.
 This will also be a way to track my progress in the Data Analytics or Data Science Field.
 <br>
 
@@ -19,12 +19,21 @@ This will also be a way to track my progress in the Data Analytics or Data Scien
   - [Python - Kaggle](#Python-fundamentals)
   - [Getting Started with Python](#Getting-started-with-Python)
   - [Google Advanced Data Analytics Certification](#Foundations-of-Data-Science)
-  
   - [Structured Query Language(SQL)](#SQL)
+  
+  
 - [Tableau](#Tableau)
 - [Portfolio Projects](#Projects)
+  - [House Price Prediction using Machine Learning]()
+  - []()
+  - []()
+  - []()
 - [Certifications](#Certifications)
-  - [Forage PowerBI Virtual Internship by Pwc](#Virtual-Job-Simulation-PowerBI) 
+  - [Getting Started with Python](#Getting-started-with-Python)
+  - [Google Data Analytics Professional Certificate](#Beginner-data-analysis-course)
+  - [Google Advanced Data Analytics Certification](#Foundations-of-Data-Science)
+  - [Forage PowerBI Virtual Internship by Pwc](#Virtual-Job-Simulation-PowerBI)
+  - [Python - Kaggle](#Python-fundamentals)
 - [Contacts](#contacts)
    - [email](nitikamalhotra.011@gmail.com)
    - [linkedin](https://www.linkedin.com/in/nitika-malhotra-06162a1a6/)
@@ -39,7 +48,11 @@ This will also be a way to track my progress in the Data Analytics or Data Scien
 
 ### Foundations of Data Science
 
+### Foundations of Data Science
 
+### Virtual Job Simulation PowerBI
+
+## Portfolio Projects
 ### Virtual Job Simulation PowerBI
 
 ### SQL
